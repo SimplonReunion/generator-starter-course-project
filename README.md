@@ -1,5 +1,4 @@
-# generator-starter-course-project [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> A starter html/bootstrap/jquery starter project
+# generator-starter-course-project
 
 ## Installation
 
@@ -14,6 +13,11 @@ Then generate your new project:
 
 ```bash
 yo starter-course-project
+```
+
+If you want you have a livereload and SCSS watch with grunt
+```
+grunt
 ```
 
 ## Getting To Know Yeoman
