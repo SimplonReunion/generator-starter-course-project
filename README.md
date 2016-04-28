@@ -1,4 +1,5 @@
 # generator-starter-course-project
+A generator for a starter website with bootstrap and jquery.
 
 ## Installation
 
